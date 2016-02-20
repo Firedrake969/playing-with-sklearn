@@ -1,3 +1,8 @@
+# http://scikit-learn.org/stable/auto_examples/linear_model/plot_ols.html
+
+# Code source: Jaques Grobler
+# License: BSD 3 clause
+
 import matplotlib.pyplot as plt
 import numpy as np
 from sklearn import datasets, linear_model
